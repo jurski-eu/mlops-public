@@ -1,0 +1,10 @@
+# train, val and test data
+train: /home/jovyan/data/training  # 1000 images
+val: /home/jovyan/data/validation  # 100 images
+test: /home/jovyan/data/test  # 100 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'person']
