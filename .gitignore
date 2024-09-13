@@ -1,0 +1,169 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.lock
+*.bak
+*.swp
+*.swo
+*.swn
+*.swd
+*.swm
+*.swo
+*.swp
+*.pid
+*.seed
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+*.manifest
+*.spec
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.project
+*.classpath
+*.settings/
+target/
+bin/
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Golang
+bin/
+obj/
+*.exe
+*.dll
+*.out
+
+# Rust
+/target/
+
+# Ruby
+*.gem
+*.rbc
+*.log
+*.pid
+*.rvmrc
+.bundle/
+vendor/bundle/
+.ruby-version
+.ruby-gemset
+
+# PHP
+composer.lock
+vendor/
+
+# C/C++
+*.out
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+
+# C#
+bin/
+obj/
+*.exe
+*.dll
+
+# JavaScript
+/node_modules/
+/dist/
+/coverage/
+*.log
+npm-debug.log*
+
+# Ansible
+*.retry
+
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Kubernetes
+*.yaml~
+*.yml~
+
+# LaTeX
+*.aux
+*.log
+*.toc
+*.bbl
+*.blg
+*.out
+*.fdb_latexmk
+*.fls
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Vim
+*.swp
+*.swo
+
+# VSCode
+.vscode/
+.history/
+
+# Backup files
+*.bak
+*.orig
+
+# Temporary and swap files
+*.tmp
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and text editors
+.idea/
+*.iml
+*.ipr
+*.iws
+*.vscode/
+*.sublime-project
+*.sublime-workspace
